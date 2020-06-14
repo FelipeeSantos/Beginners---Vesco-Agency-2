@@ -1,0 +1,238 @@
+@media (min-width: 1200px) {
+
+  /* All Ok **/
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+  .navbar {
+
+    background: rgba(0, 0, 0, .7);
+    padding: 10px 0;
+
+  }
+
+  #vesco-menu {
+
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .navbar-nav {
+
+    margin: 0 auto;
+    width: 100%;
+
+  }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  
+  .navbar {
+
+    background: rgba(0, 0, 0, .7);
+    padding: 10px 0;
+
+  }
+
+  #vesco-menu {
+  
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .navbar-nav  {
+
+    margin: 0 auto;
+    width: 100%;
+
+  }
+
+  #about-bg-diagonal {
+
+    border-left: 0;
+    border-top: 0;
+    height: 350px;
+    width: 100%;
+
+  }
+
+  #about-content-box {
+
+    height: 350px;
+    width: 100%;
+    text-align: center;
+
+  }
+
+  #about #about-content-box-inner .content-title .content-title-underline {
+
+    margin: 0 auto 30px auto;
+
+  }
+
+  .stats-item {
+
+    padding: 20px 0;
+
+  }
+
+  #footer-copyrights {
+
+    text-align: center;
+  
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .navbar {
+
+    background: rgba(0, 0, 0, .7);
+    padding: 10px 0;
+
+  }
+
+  #vesco-menu {
+  
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .navbar-nav {
+
+    margin: 0 auto;
+    width: 100%;
+
+  }
+
+  #home-heading h3 {
+
+    font-size: 24px;
+
+  }
+
+  .btn-general {
+
+    padding: 6px 22px;
+    font-size: 14px;
+
+  }
+
+  #about-bg-diagonal {
+
+    border-left: 0;
+    border-top: 0;
+    height: 350px;
+    width: 100%;
+
+  }
+
+  #about-content-box {
+
+    height: 350px;
+    width: 100%;
+    text-align: center;
+
+  }
+
+  #about #about-content-box-inner .content-title .content-title-underline {
+
+    margin: 0 auto 30px auto;
+
+  }
+
+  .img-wrapper img {
+
+    min-width: 100%;
+
+  }
+
+  .testimonial blockquote {
+
+    padding: 6px 50px;
+
+  }
+
+  .testimonial blockquote::before {
+
+    left: 10px;
+
+  }
+
+  .testimonial blockquote::after {
+
+    right: 10px;
+
+  }
+
+  .stats-item {
+
+    padding: 20px 0;
+
+  }
+
+  #footer-copyrights {
+
+    text-align: center;
+  
+  }
+
+}
+
+@media (max-width: 480px) {
+
+
+  header .vesco-nav-wrapper {
+
+    padding: 0 10px;
+
+  }
+
+  .navbar-brand {
+
+    padding: 15px 0;
+
+  }
+
+  .navbar {
+
+    background: rgba(0, 0, 0, .7);
+    padding: 0;
+
+  }
+
+  #vesco-menu {
+  
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .navbar-nav {
+
+    margin: 0 auto;
+    width: 100%;
+
+  }
+
+  .testimonial blockquote p {
+
+    text-align: justify;
+
+  }
+
+}
+
+@media (max-width: 320px) {
+
+  
+
+}
